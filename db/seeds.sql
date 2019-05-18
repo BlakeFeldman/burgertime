@@ -1,5 +1,5 @@
 -- Seed Burgers into Database
-INSERT INTO burgers(burger_name, devoured, date)
+INSERT INTO burgers(burger_name, devoured, createdAt)
 VALUES ("Big Mac", false, "2016-11-05 04:20:00"),
   ("Whopper", false, "2016-11-05 04:20:01"),
   ("Cheeseburger", false, "2016-11-05 04:20:02"),
